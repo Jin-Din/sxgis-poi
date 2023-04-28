@@ -1,9 +1,9 @@
 {
   "name": "@jindin/sxgis-poi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "封装天地图陕西POI搜索服务(api)",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/poi/index.js",
+  "types": "dist/poi/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
